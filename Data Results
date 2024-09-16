@@ -1,0 +1,10 @@
+The Top 5 Authors (Total Book Sales) focuses on identifying the authors who have sold the highest total number of books across all their titles. 
+This metric highlights the overall commercial success of an author based on the cumulative sales volume.
+
+In contrast, the Average of Volume Sales by Author calculates the average sales per book for each author, providing insight into how well each individual book performs on average. 
+While an author may have a high total book sales volume due to multiple titles, their average sales per book might be lower compared to another author with fewer but more consistently successful books.
+
+This comparison is crucial as it differentiates between prolific authors who may have many moderately successful books and authors who consistently achieve higher sales with fewer releases.
+
+Same analysis can be applied for Top 5 Publishers and Top 5 Genres also.
+
